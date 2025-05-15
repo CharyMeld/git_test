@@ -22,4 +22,4 @@ git commit -m "$1"
 echo "🚀 Pushing to remote..."
 git push origin main
 
-echo "✅ Sync complete!"
+echo "Sync complete!"
